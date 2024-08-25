@@ -1,0 +1,9 @@
+.idea
+.bin
+.DS_Store
+.env.local
+__debug_*
+
+
+# Visual Studio Settings
+.vscode
